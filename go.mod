@@ -1,6 +1,7 @@
 module github.com/argoproj/argo-events
 
-go 1.19
+go 1.23.0
+
 toolchain go1.24.1
 
 retract v1.15.1 // Contains retractions only.
@@ -20,7 +21,7 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.14.0
 	github.com/argoproj/pkg v0.13.6
-	github.com/aws/aws-sdk-go v1.55.6
+	github.com/aws/aws-sdk-go v1.55.7
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.14.0
 	github.com/cloudevents/sdk-go/v2 v2.15.2
