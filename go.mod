@@ -71,7 +71,7 @@ require (
 	go.uber.org/ratelimit v0.3.1
 	go.uber.org/zap v1.27.1
 	golang.org/x/crypto v0.47.0
-	google.golang.org/api v0.262.0
+	google.golang.org/api v0.264.0
 	google.golang.org/grpc v1.78.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.35.0
@@ -151,7 +151,7 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20251202230838-ff82c1b0f217 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260120174246-409b4a993575 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260122232226-8e98ce8d340d // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	k8s.io/gengo/v2 v2.0.0-20250922181213-ec3ebc5fd46b // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
