@@ -8,7 +8,7 @@ retract v1.15.0 // Published accidentally.
 
 require (
 	cloud.google.com/go/compute/metadata v0.9.0
-	cloud.google.com/go/pubsub v1.50.1
+	cloud.google.com/go/pubsub v1.50.2
 	github.com/Azure/azure-event-hubs-go/v3 v3.6.2
 	github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.10.0
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
@@ -88,7 +88,7 @@ require (
 require (
 	cloud.google.com/go/auth v0.18.2 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.8 // indirect
-	cloud.google.com/go/pubsub/v2 v2.0.0 // indirect
+	cloud.google.com/go/pubsub/v2 v2.4.0 // indirect
 	dario.cat/mergo v1.0.2 // indirect
 	github.com/AthenZ/athenz v1.12.13 // indirect
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0 // indirect
@@ -172,7 +172,7 @@ require (
 )
 
 require (
-	cloud.google.com/go v0.121.6 // indirect
+	cloud.google.com/go v0.123.0 // indirect
 	cloud.google.com/go/iam v1.5.3 // indirect
 	github.com/Azure/azure-sdk-for-go v65.0.0+incompatible // indirect
 	github.com/Azure/go-amqp v1.4.0 // indirect
